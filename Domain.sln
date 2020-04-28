@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{717CA62C-FF66-41C4-8E6F-049E6781D95C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{323F51FB-A826-4F0D-9EF4-69825CFC7911}"
+ProjectSection(SolutionItems) = preProject
+	README.md = README.md
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{717CA62C-FF66-41C4-8E6F-049E6781D95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717CA62C-FF66-41C4-8E6F-049E6781D95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717CA62C-FF66-41C4-8E6F-049E6781D95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717CA62C-FF66-41C4-8E6F-049E6781D95C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
