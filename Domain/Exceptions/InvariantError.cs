@@ -1,4 +1,4 @@
-﻿namespace Domain.Exceptions
+﻿namespace LightestNight.System.Domain.Exceptions
 {
     public struct InvariantError
     {

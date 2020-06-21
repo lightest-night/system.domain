@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Domain.Exceptions
+namespace LightestNight.System.Domain.Exceptions
 {
     public class ConflictException : Exception
     {

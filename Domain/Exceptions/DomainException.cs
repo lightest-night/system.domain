@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Domain.Exceptions
+namespace LightestNight.System.Domain.Exceptions
 {
     public class DomainException : Exception
     {
